@@ -3,7 +3,7 @@
 - 🌱 I’m Passed in Btech (Artificial intelligence and data science) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me By MY Gmail is gurvindersingh7240@gmail.com  
-- 😄 Pronouns: Good communication 
+- 😄 Pronouns: He/his
 - ⚡ Fun fact: GitHub remains the dominant version control system (VCS) for software development and is often credited for its user-friendly interfac
 
 <!---
